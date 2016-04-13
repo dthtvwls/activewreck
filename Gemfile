@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'activerecord'
+gem 'activerecord-jdbcmysql-adapter'
+gem 'dotenv'
+gem 'minitest'
+gem 'rack-test'
+gem 'rake'
+gem 'sinatra'
+gem 'torquebox-web', '4.0.0.beta2'
+gem 'trinidad'
